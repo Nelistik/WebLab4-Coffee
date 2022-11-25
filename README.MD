@@ -1,1 +1,1 @@
-https://nelistik.github.io/WebLab4-Coffee/web/CoffeHelper.html
+https://nelistik.github.io/WebLab4-Coffee/web/CoffeeHelper.html
