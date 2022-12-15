@@ -240,7 +240,6 @@ class searchCoffie {
   }
 
   searching() {
-    console.log(this.ingred);
     let flag = 0;
     let difference
     this.coffies.forEach((element) => {
@@ -252,8 +251,6 @@ class searchCoffie {
         document.querySelector(".highlights2").textContent = element.title;
         document.querySelector(".tEXT_THERE").textContent = element.description;
         flag = 1;
-        console.log(element.ingredients);
-        console.log(difference);
       }
     })
     if (flag == 0) {
