@@ -1,5 +1,19 @@
 ## https://nelistik.github.io/WebLab4-Coffee/web/CoffeeHelp.html
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+For client:
 ### 1. Prerequisite
 
 In order to use `npm`, please install [node.js](https://nodejs.org/en/download/) first
