@@ -1,6 +1,6 @@
 # Coffee Helper
 by [Nelistik](https://github.com/Nelistik) and [katiebg](https://github.com/katiebg)
-## Pure js realisation:
+## Pure JS realisation:
 https://nelistik.github.io/WebLab4-Coffee/web/CoffeeHelp.html
 ## React (without classes) code:
 https://github.com/Nelistik/WebLab4-Coffee/tree/main/ReactCoffeeProject
