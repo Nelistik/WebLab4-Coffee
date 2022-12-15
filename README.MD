@@ -1,3 +1,4 @@
+#hi
 ## Clear .js realisation:
 https://nelistik.github.io/WebLab4-Coffee/web/CoffeeHelp.html
 ## React code:
@@ -15,7 +16,7 @@ https://github.com/Nelistik/WebLab4-Coffee/tree/main/ReactCoffeeProject
 
 
 
-For client:
+##For client:
 ### 1. Prerequisite
 
 In order to use `npm`, please install [node.js](https://nodejs.org/en/download/) first
