@@ -16,11 +16,11 @@ https://github.com/Nelistik/WebLab4-Coffee/tree/main/ReactCoffeeProject
 
 
 ##For client:
-### 1. Prerequisite
+1. Prerequisite
 
 In order to use `npm`, please install [node.js](https://nodejs.org/en/download/) first
 
-### 2. Installation
+2. Installation
 
 At first time, please install npm modules
 
@@ -28,7 +28,7 @@ At first time, please install npm modules
 npm install
 ```
 
-### 3. Demo & Live Coding Result
+3. Demo & Live Coding Result
 
 ```
 npm start
@@ -38,7 +38,7 @@ And you can start demo via `https://localhost:3001`
 
 And you can live coding via `/src` and `https://localhost:3001`
 
-### 4. Builds for publish
+4. Builds for publish
 
 ```
 npm run build
@@ -46,7 +46,7 @@ npm run build
 
 And you can get the builds from `./web` folder
 
-### Folder Structure of Source Code
+Folder Structure of Source Code
 
 `./web` build result
 
