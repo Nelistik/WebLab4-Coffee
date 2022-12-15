@@ -1,4 +1,5 @@
 # Coffee Helper
+by [Nelistik](https://github.com/Nelistik) and [katiebg](https://github.com/katiebg)
 ## Clear .js realisation:
 https://nelistik.github.io/WebLab4-Coffee/web/CoffeeHelp.html
 ## React code:
