@@ -1,6 +1,7 @@
-## Clear .js
+## Clear .js realisation:
 https://nelistik.github.io/WebLab4-Coffee/web/CoffeeHelp.html
-## React:
+## React code:
+https://github.com/Nelistik/WebLab4-Coffee/tree/main/ReactCoffeeProject
 
 
 
