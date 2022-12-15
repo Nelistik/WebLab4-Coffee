@@ -15,7 +15,7 @@ https://github.com/Nelistik/WebLab4-Coffee/tree/main/ReactCoffeeProject
 
 
 
-# For client:
+## For client:
 1. Prerequisite
 
 In order to use `npm`, please install [node.js](https://nodejs.org/en/download/) first
